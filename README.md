@@ -1,6 +1,4 @@
-# MediaEval Benchmarking Initiative for Multimedia Evaluation web page
-
-Available [here](https://multimediaeval.github.io/): [https://multimediaeval.github.io/](https://multimediaeval.github.io/)
+# PyData São Paulo web page
 
 ## How to collaborate
 
@@ -22,9 +20,3 @@ _editions/
 ```
 
 As some parts of this structure is still a work in progress, this might change and this README will be outdated. Please, in this case or any other question fill in an issue.
-
-### Bibliography management
-
-For bibliography management we are using the following package: [https://github.com/inukshuk/jekyll-scholar](https://github.com/inukshuk/jekyll-scholar)
-
-As this package is no white-listed to Github pages it's required to deploy via Action, and the following setup is used [https://github.com/marketplace/actions/github-pages-action](https://github.com/marketplace/actions/github-pages-action).
